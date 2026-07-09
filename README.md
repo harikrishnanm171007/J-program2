@@ -1,4 +1,4 @@
-# J-program2
+# J-program2string
 package java_example;
 
 public interface I1 {
